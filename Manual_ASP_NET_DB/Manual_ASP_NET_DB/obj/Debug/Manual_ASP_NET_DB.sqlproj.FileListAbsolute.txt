@@ -1,0 +1,10 @@
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\bin\Debug\Manual_ASP_NET_DB.dacpac
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\bin\Debug\Manual_ASP_NET_DB.dll
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\bin\Debug\Manual_ASP_NET_DB.pdb
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Manual_ASP_NET_DB.sqlprojAssemblyReference.cache
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Model.xml
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\refactor.xml
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\postdeploy.sql
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\predeploy.sql
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Manual_ASP_NET_DB.dll
+C:\Users\abena\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Manual_ASP_NET_DB.pdb

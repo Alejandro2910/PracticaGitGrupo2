@@ -1,0 +1,43 @@
+﻿@model Manual_ASP_NET_WEB.ViewModels.InformacionGeneralViewModel
+@{
+    ViewBag.Title = "Index";
+}
+<br />
+<div class="container">
+    <div class="jumbotron">
+        <h2>Información General</h2>
+        <hr class="my-4">
+        <p class="lead">Aquí encontrarás algunos datos recopilados del sistema.</p>
+    </div>
+    
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-sm">
+            <h3>Cantidad de médicos</h3>
+        </div>
+        <div class="col-sm">
+            <h3>Cantidad de pacientes</h3>
+        </div>
+        <div class="col-sm">
+            <h3>Cantidad de consultas</h3>
+        </div>
+        <div class="col-sm">
+            <h3>Cantidad de pacientes con peso mayor a 60</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <p>@Model.CantidadMedicos</p>
+        </div>
+        <div class="col-sm">
+            <p>@Model.CantidadPacientes</p>
+        </div>
+        <div class="col-sm">
+            <p>@Model.CantidadConsultas</p>
+        </div>
+        <div class="col-sm">
+            <p>@Model.CantidadPacientesSobrePeso</p>
+        </div>
+    </div>
+</div>

@@ -78,3 +78,5 @@ C:\Users\abena\source\repos\Manual_ASP_NET_WEB\Manual_ASP_NET_WEB\obj\Debug\Manu
 C:\Users\abena\source\repos\Manual_ASP_NET_WEB\Manual_ASP_NET_WEB\obj\Debug\Manual_ASP_NET_WEB.csproj.CopyComplete
 C:\Users\abena\source\repos\Manual_ASP_NET_WEB\Manual_ASP_NET_WEB\obj\Debug\Manual_ASP_NET_WEB.dll
 C:\Users\abena\source\repos\Manual_ASP_NET_WEB\Manual_ASP_NET_WEB\obj\Debug\Manual_ASP_NET_WEB.pdb
+C:\Users\B55270\Documents\B55270 Labs\Practica Git\PracticaGitGrupo2\Manual_ASP_NET_WEB\Manual_ASP_NET_WEB\obj\Debug\Manual_ASP_NET_WEB.dll
+C:\Users\B55270\Documents\B55270 Labs\Practica Git\PracticaGitGrupo2\Manual_ASP_NET_WEB\Manual_ASP_NET_WEB\obj\Debug\Manual_ASP_NET_WEB.pdb
